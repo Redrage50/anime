@@ -21,7 +21,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 body{
-    background: url(../Img/yourname2.png) no-repeat;
+    background: url(yourname2.png) no-repeat;
     height: 50px;
     background-size: cover;
     background-position: center;
